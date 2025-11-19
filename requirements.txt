@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+gTTS
+reportlab
+moviepy
