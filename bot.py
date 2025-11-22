@@ -1,4 +1,4 @@
-bot.py# ================== EXTRACTOR BOT - FULL bot.py ==================
+# ============== EXTRACTOR BOT - FULL ==============
 
 import os
 import subprocess
